@@ -1,2 +1,2 @@
 # acervo-vicentino
-SIte de um acervo de venda de livros usados
+Atividade de programação proposta pelo professor George Gonçalves durante uma aula, o objetivo é fazer um site de um acervo online para venda de livros usados.
